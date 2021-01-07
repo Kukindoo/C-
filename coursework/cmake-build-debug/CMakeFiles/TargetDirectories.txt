@@ -1,0 +1,3 @@
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/cmake-build-debug/CMakeFiles/coursework.dir
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/cmake-build-debug/CMakeFiles/edit_cache.dir

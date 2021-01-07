@@ -1,0 +1,22 @@
+show
+move 1
+turnright 1
+show
+move 1
+show
+turnright 1
+move 6
+move 6
+move 6
+move 6
+move 6
+move 6
+move 6
+move 4
+move 4
+move 4
+move 5
+move 5
+move 5
+move 2
+travelled

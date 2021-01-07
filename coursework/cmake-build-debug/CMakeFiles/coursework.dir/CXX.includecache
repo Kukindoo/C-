@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/board.cpp
+board.h
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/board.h
+iostream
+-
+algorithm
+-
+vector
+-
+
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/board.h
+robot.h
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/robot.h
+vector
+-
+
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/coordination.h
+
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/robot.h
+vector
+-
+coordination.h
+D:/AAA_school/OneDrive - City, University of London/IN2029 c++/in2029-portfolio-Kukindoo/coursework/coordination.h
+
